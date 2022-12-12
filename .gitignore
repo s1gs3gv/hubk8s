@@ -1,0 +1,7 @@
+.terraform/
+out/*
+
+**plan.tfplan
+**tfplan.json
+terraform.tfstate
+.terraform*
